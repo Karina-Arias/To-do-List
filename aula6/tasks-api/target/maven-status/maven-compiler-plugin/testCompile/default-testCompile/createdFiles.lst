@@ -1,0 +1,3 @@
+br\ifsp\tasks_api\TaskServiceTest.class
+br\ifsp\tasks_api\TasksApiApplicationTests.class
+br\ifsp\tasks_api\TaskControllerTests.class

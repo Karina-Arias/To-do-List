@@ -1,0 +1,14 @@
+br\ifsp\tasks_api\controller\TaskController.class
+br\ifsp\tasks_api\dto\TaskCreateDTO.class
+br\ifsp\tasks_api\dto\TaskUpdateDTO.class
+br\ifsp\tasks_api\exception\InvalidTaskStateException.class
+br\ifsp\tasks_api\exception\GlobalExceptionHandler.class
+br\ifsp\tasks_api\repository\TaskRepository.class
+br\ifsp\tasks_api\config\MapperConfig.class
+br\ifsp\tasks_api\model\Prioridade.class
+br\ifsp\tasks_api\service\impl\TaskServiceImpl.class
+br\ifsp\tasks_api\model\Task.class
+br\ifsp\tasks_api\exception\ResourceNotFoundException.class
+br\ifsp\tasks_api\service\TaskService.class
+br\ifsp\tasks_api\dto\TaskDTO.class
+br\ifsp\tasks_api\TasksApiApplication.class

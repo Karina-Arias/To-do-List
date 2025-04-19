@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ifsp.tasks_api.TaskControllerTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.064 s -- in br.ifsp.tasks_api.TaskControllerTests

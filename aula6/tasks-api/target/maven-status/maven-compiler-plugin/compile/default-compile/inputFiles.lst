@@ -1,0 +1,14 @@
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\config\MapperConfig.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\controller\TaskController.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\dto\TaskCreateDTO.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\dto\TaskDTO.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\dto\TaskUpdateDTO.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\exception\GlobalExceptionHandler.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\exception\InvalidTaskStateException.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\exception\ResourceNotFoundException.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\model\Prioridade.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\model\Task.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\repository\TaskRepository.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\service\impl\TaskServiceImpl.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\service\TaskService.java
+C:\Users\karin\Downloads\aula6\tasks-api\src\main\java\br\ifsp\tasks_api\TasksApiApplication.java
