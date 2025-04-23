@@ -41,7 +41,7 @@ public class TaskControllerTests {
     public void setUp() {
         tarefaValida = new TaskDTO();
         tarefaValida.setTitulo("Estudar Spring");
-        tarefaValida.setDataLimite(LocalDate.now().plusDays(1));  // ou o valor adequado
+        tarefaValida.setDataLimite(LocalDate.now().plusDays(1)); 
     }
 
     @Test
@@ -49,8 +49,8 @@ public class TaskControllerTests {
         Map<String, Object> tarefaMap = new HashMap<>();
         tarefaMap.put("titulo", "Estudar Spring");
         tarefaMap.put("descricao", "Revisar testes");
-        tarefaMap.put("prioridade", "ALTA"); // Enum como string
-        tarefaMap.put("dataLimite", LocalDate.now().plusDays(2).toString()); // ano-mês-dia
+        tarefaMap.put("prioridade", "ALTA"); 
+        tarefaMap.put("dataLimite", LocalDate.now().plusDays(2).toString()); 
         tarefaMap.put("categoria", "estudo");
 
         mockMvc.perform(post("/api/tasks")
